@@ -6,5 +6,5 @@ for day in {4..31}; do
   date="2024-12-$(printf "%02d" $day)"
 
   # 날짜를 커밋 메시지로 사용하여 커밋 만들기
-  GIT_COMMITTER_DATE="$date 12:00:00" git commit --allow-empty --date "$date 12:00:00" --author="Your Name <youremail@example.com>" -m "Update contributions for December $day, 2024"
+  GIT_COMMITTER_DATE="$date 12:00:00" git commit --allow-empty --date "$date 12:00:00" --author="Hwan seok Kim <kcsss4499@gmail.com>" -m "Update contributions for December $day, 2024"
 done
