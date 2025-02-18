@@ -11,5 +11,5 @@ html=req.text
   
 soup=BeautifulSoup(html,"html.parser")
 
-logo=soup.select_one(".product-category").text
+logo=soup.select_one(".service_name").text
 print(logo)
