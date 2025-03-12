@@ -1,5 +1,6 @@
 from selenium import webdriver
-import time
+
+url="http://naver.com"
+
 driver=webdriver.Chrome()
-driver.get("https://google.com")
-time.sleep(3)
+driver.get(url)
