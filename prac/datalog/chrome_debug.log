@@ -1,0 +1,5 @@
+[116:9000:0313/230055.093:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[9040:6972:0313/230055.410:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[9040:6972:0313/230055.413:ERROR:direct_composition_support.cc(1122)] QueryInterface to IDCompositionDevice4 failed: 해당 인터페이스를 지원하지 않습니다. (0x80004002)
+[14988:12416:0313/230057.310:WARNING:spdy_session.cc(2980)] Received HEADERS for invalid stream 3
+[14988:12416:0313/230057.313:WARNING:spdy_session.cc(2980)] Received HEADERS for invalid stream 5
